@@ -31,6 +31,10 @@
 [![Blog: Claude CLI Desktop Web](https://img.shields.io/badge/Medium-3%20Ways%20to%20Run%20Claude%20Code-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kumaran.isk/3-ways-to-run-claude-code-cli-desktop-and-web-a-developers-workflow-guide-fe6f2581b2a8)
 [![Blog: Scheduled Tasks](https://img.shields.io/badge/Medium-Scheduled%20Tasks%3A%2024%2F7%20Autonomous%20Agent-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kumaran.isk/scheduled-tasks-in-claude-desktop-your-machine-is-now-a-24-7-autonomous-agent-1ba126bc94e8)
 
+Documentation:
+[Medium. My Claude Code Setup | Here’s What I Learned](https://medium.com/@kumaran.isk/my-claude-code-setup-heres-what-i-learned-d0403b1b1fec)
+
+
 **Get your team from zero to productive with Claude Code in under 30 minutes.**
 
 This repository is a pre-configured starter kit packed with agents, skills, slash commands, and MCP integrations — ready to go for the following tech stack:
